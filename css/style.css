@@ -1,5 +1,5 @@
 h1 {
-	color: #fed136;
+	color: #e35d5b; 
 	font-family: 'Montserrat', sans-serif;
 }
 
@@ -41,7 +41,13 @@ body {
 #footer {
 	padding-top: 50px; 
 	padding-bottom: 50px; 
-	background-color: #fed136;
+	background: #FFB75E;
+
+
+background: #e53935; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #e53935 , #e35d5b); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #e53935 , #e35d5b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
 }
 
 #social {
@@ -49,7 +55,7 @@ body {
 }
 
 .button {
-	background-color: #fed136;
+	background-color: #e35d5b; 
 	color: white;
 	font-family: 'Open Sans', sans-serif;
 }
