@@ -10,8 +10,8 @@ body {
 
 #titre {
 	border: 2px solid green;
-	padding-top: 50px; 
-	padding-bottom: 50px;
+	padding-top: 20px; 
+	padding-bottom: 20px;
 	font-size: 50px; 
 }
 
@@ -22,9 +22,20 @@ body {
 
 #message {
 	border: 2px solid black;
-	padding-top: 50px; 
-	padding-bottom: 50px; 
+	padding-top: 70px; 
+	padding-bottom: 70px; 
 	font-size: 24px; 
+
+#chimp {
+
+padding-top: 70px; 
+	padding-bottom: 70px; 
+
+}
+
+	
+
+
 }
 
 #archive {
