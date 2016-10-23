@@ -9,14 +9,12 @@ body {
 }
 
 #titre {
-	border: 2px solid green;
 	padding-top: 20px; 
 	padding-bottom: 20px;
 	font-size: 50px; 
 }
 
 #slogan {
-	border: 2px solid red; 
 	font-size: 18px; 
 }
 
@@ -27,7 +25,6 @@ body {
 }
 
 #message {
-	border: 2px solid black;
 	padding-top: 70px; 
 	padding-bottom: 70px; 
 	font-size: 24px;
@@ -36,14 +33,12 @@ body {
 }
 
 #archive {
-	border: 2px solid pink; 
 	padding-top: 50px; 
 	padding-bottom: 50px; 
 
 }
 
 #footer {
-	border: 2px solid orange;
 	padding-top: 50px; 
 	padding-bottom: 50px; 
 	background-color: #fed136;
@@ -73,7 +68,6 @@ body {
 
 #apropos {
 
-	border: 2px solid black;
 	padding-top: 70px; 
 	padding-bottom: 70px; 
 	font-size: 24px;
