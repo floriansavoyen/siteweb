@@ -45,6 +45,13 @@ body {
 
 }
 
+#axes {
+
+	padding-top: 5px; 
+	padding-bottom: 70px; 
+	font-size: 20px;
+}
+
 #archive {
 	padding-top: 50px; 
 	padding-bottom: 50px; 
@@ -73,9 +80,9 @@ background: linear-gradient(to left, #e53935 , #e35d5b); /* W3C, IE 10+/ Edge, F
 	font-family: 'Open Sans', sans-serif;
 }
 
-.button hover {
-color: #353D43; 
-	
+.button:hover {
+	background-color: #e35d5b;
+
 }
 
 .vertical-spacer {
