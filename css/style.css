@@ -1,6 +1,17 @@
 h1 {
-	color: #e35d5b; 
+	
 	font-family: 'Montserrat', sans-serif;
+}
+
+
+h1 a {
+
+color: #e35d5b; 	
+
+}
+
+h1 a:hover {
+	color: #e35d5b; 
 }
 
 body {
@@ -18,9 +29,11 @@ body {
 	font-size: 18px; 
 }
 
-#slogan h2 {
+#slogan h2 a {
 
 	font-family: 'Montserrat', sans-serif;
+	color: #e35d5b; 	
+
 
 }
 
