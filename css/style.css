@@ -99,3 +99,7 @@ background: linear-gradient(to left, #e53935 , #e35d5b); /* W3C, IE 10+/ Edge, F
 #footer a {
 	color: black; 
 }
+
+#footer a:hover {
+	color: #353D43; 
+}
