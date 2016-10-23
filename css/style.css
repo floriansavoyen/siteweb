@@ -47,5 +47,6 @@ body {
 
 .button {
 	background-color: #fed136;
-	color: white; 
+	color: white;
+	font-family: 'Open Sans', sans-serif;
 }
