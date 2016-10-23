@@ -27,7 +27,7 @@ body {
 #message {
 	padding-top: 70px; 
 	padding-bottom: 70px; 
-	font-size: 24px;
+	font-size: 20px;
 
 
 }
@@ -87,6 +87,15 @@ background: linear-gradient(to left, #e53935 , #e35d5b); /* W3C, IE 10+/ Edge, F
 	list-style-type: none;
 }
 
+
+
+
 #principe p {
 	text-decoration: underline;
+
+}
+
+
+#footer a {
+	color: black; 
 }
