@@ -20,20 +20,17 @@ body {
 	font-size: 18px; 
 }
 
+#slogan h2 {
+
+	font-family: 'Montserrat', sans-serif;
+
+}
+
 #message {
 	border: 2px solid black;
 	padding-top: 70px; 
 	padding-bottom: 70px; 
-	font-size: 24px; 
-
-#chimp {
-
-padding-top: 70px; 
-	padding-bottom: 70px; 
-
-}
-
-	
+	font-size: 24px;
 
 
 }
@@ -60,4 +57,31 @@ padding-top: 70px;
 	background-color: #fed136;
 	color: white;
 	font-family: 'Open Sans', sans-serif;
+}
+
+.vertical-spacer {
+
+	text-align: center;
+	padding-top: 20px; 
+	padding-bottom: 20px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.vertical-spacer h3 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+#apropos {
+
+	border: 2px solid black;
+	padding-top: 70px; 
+	padding-bottom: 70px; 
+	font-size: 24px;
+	margin-right: 20px;
+	margin-left: 20px; 
+}
+
+#apropos li {
+
+	list-style-type: none;
 }
