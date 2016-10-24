@@ -1,6 +1,7 @@
 h1 {
 	
 	font-family: 'Montserrat', sans-serif;
+	font-size: 60px; 
 }
 
 
@@ -20,13 +21,12 @@ body {
 }
 
 #titre {
+	
 	padding-top: 20px; 
-	padding-bottom: 20px;
-	font-size: 50px; 
 }
 
 #slogan {
-	font-size: 18px; 
+	font-size: 44px; 
 }
 
 #slogan h2 a {
@@ -78,6 +78,7 @@ background: linear-gradient(to left, #e53935 , #e35d5b); /* W3C, IE 10+/ Edge, F
 	background-color: #e53935;
 	color: white;
 	font-family: 'Open Sans', sans-serif;
+	margin-top: 30px;
 }
 
 .button:hover {
@@ -135,9 +136,10 @@ background: linear-gradient(to left, #e53935 , #e35d5b); /* W3C, IE 10+/ Edge, F
 }
 
 #archive a:hover {
-	color: #353D43; 
+	color: #e35d5b; 
 
 }
+
 
 
 
